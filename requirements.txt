@@ -1,12 +1,3 @@
-"""
-# Dependencias como estava antes, fazer sem versionamento pode quebrar o projeto
-#Use o "pip freeze"para gerar dependencias do projeto sem erro para rodar o projeto depois 
-
-    pandas
-    PyPDF2
-    openpyxl
-    tk
-"""
 cffi==1.17.1
 charset-normalizer==3.4.1   
 cryptography==44.0.2        
